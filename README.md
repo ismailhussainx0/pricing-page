@@ -16,7 +16,7 @@ A responsive pricing page built using HTML, CSS, Bootstrap 5, and Font Awesome.
 - Font Awesome
 
 ## Run Project
-Open `index.html` in your browser.
+https://ismailhussainx0.github.io/pricing-page/
 
 ## Author
 Ismail
