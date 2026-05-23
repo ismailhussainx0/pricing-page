@@ -1,1 +1,22 @@
-pricing page 
+# ResumeLens Pricing Page
+
+A responsive pricing page built using HTML, CSS, Bootstrap 5, and Font Awesome.
+
+## Features
+- Responsive Navbar
+- Pricing Cards
+- FAQ Accordion
+- Dark Theme UI
+- Mobile Responsive
+
+## Technologies Used
+- HTML5
+- CSS3
+- Bootstrap 5
+- Font Awesome
+
+## Run Project
+Open `index.html` in your browser.
+
+## Author
+Ismail
