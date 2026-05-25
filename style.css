@@ -227,3 +227,11 @@
     box-shadow: none;
     border: none;
 }
+
+/* footer */
+footer{
+    background-color: #0A0F1A;
+    height: 80px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    
+}
