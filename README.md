@@ -19,4 +19,4 @@ A responsive pricing page built using HTML, CSS, Bootstrap 5, and Font Awesome.
 https://ismailhussainx0.github.io/pricing-page/
 
 ## Author
-Ismail
+**Muhammad Ismail** — [Portfolio](https://ismailhussainx0.github.io/Portfolio-Website/) | [LinkedIn](https://www.linkedin.com/in/ismail-hussainx0/)
